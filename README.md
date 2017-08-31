@@ -1,5 +1,5 @@
 # hello-world
-tutorial repo
+tuto repo
 
 first time giter, trying out the *awesome*
 1
